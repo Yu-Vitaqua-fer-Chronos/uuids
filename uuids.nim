@@ -1,4 +1,4 @@
-import strutils, hashes
+import std/[strutils, hashes]
 import isaac
 import uuids/urandom
 
